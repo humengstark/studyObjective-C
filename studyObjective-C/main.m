@@ -14,7 +14,6 @@ int main(int argc, const char * argv[]) {
         int b=3;
         int c;
         c=a+b;
-        NSLog();
     }
     return 0;
 }
