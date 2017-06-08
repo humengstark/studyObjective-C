@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		7D5724621EE997D30032F4BB /* studyObjective-C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "studyObjective-C"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D5724651EE997D30032F4BB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7D57246D1EE9B7A90032F4BB /* 基本数据类型.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "基本数据类型.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		7D5724591EE997D30032F4BB = {
 			isa = PBXGroup;
 			children = (
+				7D57246C1EE9B6D30032F4BB /* notes */,
 				7D5724641EE997D30032F4BB /* studyObjective-C */,
 				7D5724631EE997D30032F4BB /* Products */,
 			);
@@ -60,6 +62,14 @@
 				7D5724651EE997D30032F4BB /* main.m */,
 			);
 			path = "studyObjective-C";
+			sourceTree = "<group>";
+		};
+		7D57246C1EE9B6D30032F4BB /* notes */ = {
+			isa = PBXGroup;
+			children = (
+				7D57246D1EE9B7A90032F4BB /* 基本数据类型.txt */,
+			);
+			name = notes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
